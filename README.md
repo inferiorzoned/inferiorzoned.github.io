@@ -17,9 +17,11 @@ Open <http://localhost:8000>. You can also open `index.html` directly. No packag
 - `index.html`: profile, research, seven publications, experience, education, projects, service, awards, skills, and contact links.
 - `css/style.css`: responsive layout, typography, mobile styles, and print styles.
 - `js/main.js`: updates the footer year. All content and navigation work without JavaScript.
-- `files/Hisham_profile.pdf`: the current downloadable CV. Replace this file when updating the CV, then update the page to match.
+- `files/Hisham_profile.pdf`: the current CV. Replace this file when updating the CV, then update the page to match.
 - `files/Hisham_resume.pdf`: the separate one-page resume, copied from `internship-application-2026/Hisham_a.pdf`. A copy is also kept as `Hisham_resume.pdf` in the parent `cv+resume` workspace. Both the header and contact section link to this PDF alongside the CV.
 - `img/hisham-casual.jpg`: optimized version of the existing `img/hisham.jpg` photograph.
+
+The CV and Resume links open the PDFs in a new browser tab for preview, without forcing a download.
 
 Publications are a plain list, ordered from newest to oldest. Entries without a paper URL are displayed without a paper link; add the official URL when available.
 
